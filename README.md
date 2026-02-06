@@ -29,9 +29,6 @@ Nox Engine is a comprehensive toolkit designed to streamline the game developmen
 * **Visual Shader Editor:** Create complex materials by importing custom shader files or using included presets. Fully integrated with the PBR lighting pipeline.
 * **Animation Suite:** Keyframe animations, blending, and timeline control for cinematic quality results.
 
-### Artificial Intelligence
-* **Native AI System:** Built-in navigation (NavMesh) and native search behaviors for NPCs, ready to deploy immediately.
-
 ## Ecosystem
 
 Nox Engine is designed to take projects from prototype to final product efficiently using a production-ready library.
