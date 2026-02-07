@@ -1,4 +1,5 @@
 <div align="center">
+  <meta name="google-site-verification" content="PFkZUOetxqHkmeUd1f8EivSlXdLE9kT-D1KqY5t4zBA" />
   <img src="https://noxengine.netlify.app/logo.png" alt="Nox Engine Logo" width="200"/>
   <h3>Next-Gen JavaScript Game Development</h3>
   <p>
