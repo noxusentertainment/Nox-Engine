@@ -1,0 +1,22 @@
+{
+  "id": "fpsoverlay-001",
+  "title": "FPS Overlay",
+  "version": "1.0.0",
+  "author": "Nox Engine Team",
+  "type": "ScriptBehaviour",
+  "category": "Overlay",
+  "thumbnail": "https://raw.githubusercontent.com/noxusentertainment/Nox-Engine/assethub/scriptbehaviours/behaviour_fpsoverlay/assetimg.jpg",
+  "description": "A simple behavior script that displays a real-time FPS counter on the game screen. Perfect for performance monitoring and debugging.",
+  "tags": ["Overlay", "FramePerSecond"],
+  "content": {
+    "main_script": "https://raw.githubusercontent.com/noxusentertainment/Nox-Engine/assethub/scriptbehaviours/behaviour_fpsoverlay/behaviour_fpsoverlay.js"
+  },
+  "engine_requirements": {
+    "min_version": "1.0.0"
+  },
+  "behaviours_meta": {
+    "name": "behaviour_fpsoverlay",
+    "label": "FPS Overlay",
+    "properties": {}
+  }
+}
