@@ -10,7 +10,7 @@
   "tags": ["Input", "Movement", "FPS", "Physics"],
   
   "content": {
-    "main_script": "https://github.com/noxusentertainment/Nox-Engine/blob/assethub/scriptbehaviours/behaviour_firstpersonscript/FirstPersonController.js"
+    "main_script": "https://github.com/noxusentertainment/Nox-Engine/blob/assethub/scriptbehaviours/behaviour_firstpersonscript/behaviour_firstpersonscript.js"
   },
   
   "engine_requirements": {
