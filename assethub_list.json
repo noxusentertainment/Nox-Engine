@@ -15,5 +15,14 @@
     "category": "VFX",
     "thumb": "url_da_imagem",
     "json_url": "https://raw.githubusercontent.com/.../water.json"
+  },
+  
+  {
+    "id": "fpsoverlay-001",
+    "title": "FPS Overlay",
+    "type": "ScriptBehaviour",
+    "category": "Overlay",
+    "thumb": "https://github.com/noxusentertainment/Nox-Engine/blob/assethub/scriptbehaviours/behaviour_fpsoverlay/assetimg.jpg?raw=true",
+    "json_url": "https://raw.githubusercontent.com/noxusentertainment/Nox-Engine/refs/heads/assethub/scriptbehaviours/behaviour_fpsoverlay/fps-overlay.json"
   }
 ]
