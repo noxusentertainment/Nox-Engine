@@ -1,0 +1,19 @@
+{
+  "id": "fpc-001",
+  "title": "First Person Controller",
+  "version": "1.2.0",
+  "author": "Nox Engine Team",
+  "type": "ScriptBehaviour",
+  "category": "Controller",
+  "thumbnail": "https://github.com/noxusentertainment/Nox-Engine/blob/assethub/scriptbehaviours/behaviour_firstpersonscript/assetimg.jpg",
+  "description": "This script enables a first-person perspective by synchronizing player movement with camera rotation. It translates user input (mouse and keyboard) into physical motion within a 3D environment.",
+  "tags": ["Input", "Movement", "FPS", "Physics"],
+  
+  "content": {
+    "main_script": "https://github.com/noxusentertainment/Nox-Engine/blob/assethub/scriptbehaviours/behaviour_firstpersonscript/FirstPersonController.js"
+  },
+  
+  "engine_requirements": {
+    "min_version": "1.0.0"
+  }
+}
