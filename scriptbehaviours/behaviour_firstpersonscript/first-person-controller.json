@@ -5,15 +5,31 @@
   "author": "Nox Engine Team",
   "type": "ScriptBehaviour",
   "category": "Controller",
-  "thumbnail": "https://github.com/noxusentertainment/Nox-Engine/blob/assethub/scriptbehaviours/behaviour_firstpersonscript/assetimg.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/noxusentertainment/Nox-Engine/assethub/scriptbehaviours/behaviour_firstpersonscript/assetimg.jpg",
   "description": "This script enables a first-person perspective by synchronizing player movement with camera rotation. It translates user input (mouse and keyboard) into physical motion within a 3D environment.",
   "tags": ["Input", "Movement", "FPS", "Physics"],
-  
   "content": {
-    "main_script": "https://github.com/noxusentertainment/Nox-Engine/blob/assethub/scriptbehaviours/behaviour_firstpersonscript/behaviour_firstpersonscript.js"
+    "main_script": "https://raw.githubusercontent.com/noxusentertainment/Nox-Engine/assethub/scriptbehaviours/behaviour_firstpersonscript/behaviour_firstpersonscript.js"
   },
-  
   "engine_requirements": {
     "min_version": "1.0.0"
+  },
+  "behaviours_meta": {
+    "name": "behaviour_firstpersonscript",
+    "label": "First Person Controller",
+    "properties": {
+      "camerasensitivity": { "type": "number", "label": "Camera Sensitivity", "default": 0.002, "step": 0.0001 },
+      "playerwalkspeed": { "type": "number", "label": "Walk Speed", "default": 0.1, "step": 0.01 },
+      "rotationsmooth": { "type": "boolean", "label": "Rotation Smooth", "default": false },
+      "rotationsmoothness": { "type": "number", "label": "Rotation Smoothness", "default": 0, "step": 0.1 },
+      "enablejump": { "type": "boolean", "label": "Enable Jump", "default": true },
+      "jumpstrength": { "type": "number", "label": "Jump Strength", "default": 5.0, "step": 0.1 },
+      "jumpcooldown": { "type": "number", "label": "Jump Cooldown", "default": 0.25, "step": 0.01 },
+      "enablerun": { "type": "boolean", "label": "Enable Run", "default": true },
+      "runmultiplier": { "type": "number", "label": "Run Multiplier", "default": 1.8, "step": 0.1 },
+      "enablebobbing": { "type": "boolean", "label": "Enable Bobbing", "default": false },
+      "bobbingamount": { "type": "number", "label": "Bobbing Amount", "default": 0.2, "step": 0.01 },
+      "bobbingfrequency": { "type": "number", "label": "Bobbing Frequency", "default": 8.0, "step": 0.1 }
+    }
   }
 }
