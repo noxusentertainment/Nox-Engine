@@ -5,7 +5,7 @@
     "type": "ScriptBehaviour",
     "category": "Controller",
     "thumb": "https://github.com/noxusentertainment/Nox-Engine/blob/assethub/scriptbehaviours/behaviour_firstpersonscript/assetimg.jpg",
-    "json_url": "https://github.com/noxusentertainment/Nox-Engine/blob/assethub/scriptbehaviours/behaviour_firstpersonscript/first-person-controller.json"
+    "json_url": "https://raw.githubusercontent.com/noxusentertainment/Nox-Engine/refs/heads/assethub/scriptbehaviours/behaviour_firstpersonscript/first-person-controller.json"
   },
   {
     "id": "water-shader-02",
